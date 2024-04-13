@@ -30,3 +30,7 @@ https://github.com/Rc-Cookie/greenfoot-sources-combined/archive/refs/heads/main.
 ```
 C:\Program Files\Greenfoot\jdk
 ```
+
+### Mit Greenfoot IDE öffnen
+Wenn Sie das Projekt mit dem Richtigen Client von Greenfoot öffnen, können Sie die project.greenfoot -Datei öffnen und das Projekt wird automatisch geöffnet.
+Dabei werden .class und .ctxt Dateien generiert welche mit der deleteCtxtAndClassFiles.bat gelöscht werden können, wenn der Path dort angepasst wurde.
