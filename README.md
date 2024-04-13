@@ -16,9 +16,15 @@ greenfoot.export.GreenfootScenarioApplication
 --module-path "C:\Program Files\Greenfoot\lib\javafx\lib" --add-modules javafx.controls,javafx.fxml
 ```
 
+![config](docs/config.png)
+
+### Libraries
+
 Außerdem müssen Sie die Bibliotheken von Greenfoot und JavaFX hinzufügen und die Library herunterladen:
 
 https://github.com/Rc-Cookie/greenfoot-sources-combined/archive/refs/heads/main.zip
+
+![libs](docs/libs.png)
 
 ### SDK
 ```
